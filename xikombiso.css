@@ -1,0 +1,29 @@
+h1{
+  color: green;
+}
+hr{
+  color: green;
+  border: solid;
+  margin: 20px;
+}
+label{
+  display: inline-block;
+  width: 150px;
+  padding: 3px;
+}
+footer{
+  margin: 1px 1px;
+  text-align: center;
+  border-color: green;
+  background-color: green;
+  padding: 50px ;
+}
+form{
+  background-color: rgba(190, 121, 93, 1);
+}
+html{
+  background-color: purple;
+}
+#xich{
+  padding: 20px;
+}
