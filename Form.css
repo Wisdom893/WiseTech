@@ -1,0 +1,41 @@
+div.row{
+  display: flex;
+  margin: 7px 0px;
+}
+
+div.rew{
+  margin: 7px 0px;
+}
+
+form{
+  background-color: rgb(241,232,181);
+  font-size: 20px;
+  border-radius: 15px;
+  margin: 10px;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  display: webkit-flex;
+}
+
+legend{
+  padding: 3px;
+  color: white;
+  background-color: rgb(0, 0,255);
+}
+input{
+
+}
+
+form{
+  t
+}
+
+label{
+  width: 150px;
+  display: inline-block;
+
+}
+
+hr{
+  border-color: green;
+}
