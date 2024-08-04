@@ -1,0 +1,18 @@
+body{
+  background-color: rgba(255, 200, 110, 0.5);
+
+}
+html{
+  background-image: url('xich.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+h1{
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+}
+#p1{
+  font-family: cursive;
